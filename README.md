@@ -74,7 +74,7 @@ key(itemKeys) {
 }
 ```
 
-Once we assigne offsets for all items, we can finally draw them on the screen. Nothing complicated here, we just iterate over and wrap each item inside Box with calculated size and offset.
+Once we assign offsets for all items, we can finally draw them on the screen. Nothing complicated here, we just iterate over and wrap each item inside Box with calculated size and offset.
 
 ```
 items.forEach { item ->
