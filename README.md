@@ -1,5 +1,9 @@
 # Animated Grid in Jetpack Compose
 
+⚠️ **Official API Now Available**
+
+An official API has been released that provides functionality for animating item placement in lazy grids. I recommend checking it out before using this example. Learn more about it here: [Official Android Documentation](https://developer.android.com/develop/ui/compose/lists#item-animations).
+
 ## :scroll: Description
 
 This repository contains an example app and an article describing my adventure with animating a grid of elements in [Jetpack Compose](https://developer.android.com/jetpack/compose).
